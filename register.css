@@ -5,6 +5,7 @@
 }
 
 body {
+    
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
@@ -15,7 +16,6 @@ body {
 
 #form {
     background-color: #fff;
-    border: 3px solid black;
     padding: 20px;
     text-align: center;
     width: 100%;
